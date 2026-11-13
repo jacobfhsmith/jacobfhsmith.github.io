@@ -9,7 +9,7 @@ site: distill::distill_website
 knitr::include_graphics("Voting.jpg")
 ```
 
-I am an assistant professor in the Political Science Department at Fordham University.
+I am an assistant professor in the Political Science Department at Fordham University. 
 
 My research and teaching interests center on Congress, elections, and policymaking. I also am interested in the presidency, race and politics, research methods, and academic writing, with a focus on quantitative writing pedagogy. In my spare time, I enjoy watching British and Scandinavian detective shows, running, and following elections.
 :::
